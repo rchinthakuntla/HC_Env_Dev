@@ -54,7 +54,6 @@
 					<host>10.129.62.75</host>
 					<port>8090</port>
 					<groupName>Optum_Dev_HC</groupName>
-					<instanceName>Optum_Dev_HC_GW</instanceName>
 					<username>admin</username>
 					<password>changeme</password>
 					<type>fed</type>
